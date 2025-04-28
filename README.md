@@ -1,5 +1,3 @@
-Dưới đây là mã nguồn Markdown cho file `README.md` GitHub của Thanh Tín, được thiết kế để chuyên nghiệp, ấn tượng và bao gồm tất cả các yếu tố bạn yêu cầu:
-
 ```markdown
 # 👋 Founder Thanh Tín
 
@@ -62,24 +60,3 @@ Tôi có kinh nghiệm làm việc với các công nghệ sau:
 Cảm ơn bạn đã ghé thăm!
 ```
 
-**Hướng dẫn sử dụng và tùy chỉnh:**
-
-1.  **Thay thế `your-github-username`:**  Tìm tất cả các chỗ có  `your-github-username`  và thay thế bằng tên người dùng GitHub thực tế của Thanh Tín. Điều này rất quan trọng để các thống kê và liên kết hoạt động chính xác.
-2.  **Thay thế liên kết mạng xã hội:** Thay thế các liên kết Facebook, YouTube, Twitter, và LinkedIn bằng các liên kết thực tế của Thanh Tín.
-3.  **Mô tả chi tiết về dự án:**  Thêm mô tả chi tiết hơn về dự án "Haan bot", bao gồm các tính năng chính, công nghệ sử dụng, và mục tiêu của dự án.  Thêm liên kết đến kho lưu trữ GitHub của dự án.
-4.  **Tùy chỉnh biểu tượng:**  Bạn có thể tìm thêm các biểu tượng cho các kỹ năng khác tại [Devicon](https://devicon.dev/).
-5.  **Tùy chỉnh giao diện:**  Sử dụng các tham số khác nhau cho các widget thống kê để tùy chỉnh giao diện (màu sắc, chủ đề, bố cục).  Xem tài liệu của  [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) và [GitHub Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats) để biết thêm chi tiết.
-6.  **Thêm huy hiệu:**  Bạn có thể sử dụng các dịch vụ như  [Shields.io](https://shields.io/)  để tạo thêm các huy hiệu tùy chỉnh.
-7.  **Ảnh đại diện:** Thêm ảnh đại diện ở đầu trang để tăng tính cá nhân.
-8. **Cân nhắc sử dụng GIFs hoặc hình ảnh động:** Để tăng thêm tính tương tác, hãy cân nhắc sử dụng GIFs hoặc hình ảnh động ngắn gọn.
-
-**Giải thích các phần:**
-
-*   **Tiêu đề:** Sử dụng `#` để tạo tiêu đề lớn nhất cho tên và vai trò.
-*   **Giới thiệu:** Đoạn văn ngắn gọn giới thiệu về bản thân và đam mê.
-*   **Kỹ năng:** Liệt kê các kỹ năng chính và sử dụng biểu tượng để làm cho phần này trực quan hơn.
-*   **Dự án:** Giới thiệu các dự án quan trọng nhất.  Mô tả ngắn gọn và liên kết đến dự án.
-*   **Thống kê GitHub:** Sử dụng các widget của GitHub Readme Stats để hiển thị thống kê về đóng góp, ngôn ngữ sử dụng, và số lượng người theo dõi.
-*   **Mạng xã hội:** Liệt kê các kênh mạng xã hội và sử dụng biểu tượng để dễ nhận diện.
-
-Sao chép mã này vào file `README.md` trong kho lưu trữ GitHub của Thanh Tín và thực hiện các tùy chỉnh cần thiết. Chúc bạn thành công!
