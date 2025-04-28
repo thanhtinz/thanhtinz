@@ -13,9 +13,9 @@ Tôi là Thanh Tín, một người đam mê công nghệ, lập trình, streame
 
 Tôi có kinh nghiệm làm việc với các công nghệ sau:
 
-*   **Ngôn ngữ lập trình:** PHP, JavaScript, TypeScript
-*   **Công nghệ Web:** HTML, CSS
-*   **Framework:** React, Laravel
+   **Ngôn ngữ lập trình:** PHP, JavaScript, TypeScript
+   **Công nghệ Web:** HTML, CSS
+   **Framework:** React, Laravel
 
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>
